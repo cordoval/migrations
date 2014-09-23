@@ -9,7 +9,6 @@ use Doctrine\Migrations\Version;
 
 use Doctrine\DBAL\Connection;
 use Doctrine\DBAL\Schema\Table;
-use Doctrine\DBAL\Types\Type;
 
 class TableMetadataStorage implements MetadataStorage
 {

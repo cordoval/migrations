@@ -4,7 +4,6 @@ namespace Doctrine\Migrations\DBAL\Executor;
 
 use Doctrine\Migrations\MigrationInfo;
 use Doctrine\Migrations\Executor\Executor;
-use Doctrine\Migrations\Configuration;
 use Doctrine\Migrations\DBAL\DBALMigration;
 use Doctrine\DBAL\Connection;
 
